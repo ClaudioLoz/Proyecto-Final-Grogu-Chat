@@ -5,6 +5,7 @@ Para comprobar el chat simultaneo, ingrese con una cuenta en una pestaña de su 
 Para instalar correctamente el proyecto siga los siguientes pasos:
 
 1. Dado que he separado los package.json tiene que entrar a cada carpeta por separado, primero muestro lo que se tiene que hacer para el backend:
+
 cd back/
 npm i
 
