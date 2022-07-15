@@ -6,15 +6,18 @@ Para instalar correctamente el proyecto siga los siguientes pasos:
 
 1. Dado que he separado los package.json tiene que entrar a cada carpeta por separado, primero muestro lo que se tiene que hacer para el backend:
 
-cd back/
-npm i
+  cd back/
+  npm i
 
 2. Luego de haber instalado dependencias correctamente:
-npm run dev
+  
+  npm run dev
 
 3. Ahora para el frontend desde la carpeta raíz:
-cd front/
-npm i
+  
+  cd front/
+  npm i
 
 2. Luego de haber instalado dependencias correctamente:
-npm start
+  
+  npm start
